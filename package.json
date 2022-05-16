@@ -1,0 +1,27 @@
+{
+  "name": "@stevencho/eslint-config-fitpet",
+  "version": "1.0.0",
+  "description": "Eslint and Prettier for React",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint --ignore-path .gitignore .",
+    "lint:fix": "eslint --fix"
+  },
+  "peerDependencies": {
+    "eslint": "8.15.0",
+    "babel-eslint": "10.1.0",
+    "eslint-config-airbnb": "19.0.4",
+    "eslint-config-next": "12.1.6",
+    "eslint-plugin-import": "2.26.0",
+    "eslint-plugin-jsx-a11y": "6.5.1",
+    "eslint-plugin-react": "7.29.4",
+    "eslint-plugin-react-hooks": "4.5.0",
+    "eslint-config-prettier": "8.5.0",
+    "eslint-plugin-prettier": "4.0.0",
+    "prettier": "2.6.2"
+  },
+  "keywords": [],
+  "author": "steven",
+  "license": "ISC",
+  "homepage": "https://github.com/devstefancho/eslint-plugin-company.git"
+}
