@@ -1,6 +1,6 @@
 {
   "name": "@stevencho/eslint-config-fitpet",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Eslint and Prettier for React",
   "main": "index.js",
   "scripts": {

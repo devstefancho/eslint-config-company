@@ -45,6 +45,10 @@ Add rules in .eslintrc to override @devstefancho/eslint-config-react rules
 }
 ```
 
+## Webstorm
+on Mac
+- Preference(`cmd + ,`) > Check 'Automatic ESLint configuration' and 'Run eslint --fix on save'
+
 ## Ref
 ### Youtube
 - https://www.youtube.com/watch?v=tsPXN4mJGSc
